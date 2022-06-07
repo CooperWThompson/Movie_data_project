@@ -1,6 +1,11 @@
 zippedData/
 .ipynb_checkpoints
+<<<<<<< HEAD
 .DS_Store 
+=======
+.DS_Store
+
+>>>>>>> 7ca41b511541ba17a679fcd2f76de97226fcf922
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
