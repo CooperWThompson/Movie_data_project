@@ -43,13 +43,13 @@ As seen above, the relationship between the production budget and popularity is 
 ## Exploring Genre Data
 When it came to diving into genre data, we first wanted to find the genres made the most profit. To do this, we used a bar graph to plot genres versus average profit for that genre. This would show the genres that produce the highest profit, and we would be able to see if any genres stand above the others.
 
-![Graph average profit per genre](./images/Average_Profit_Per_Genre.jpeg)
+![Graph average profit per genre](./images/Average_Profit_per_Genre.jpeg)
 
 Animation, sci-Fi, and adventure are clearly much higher than the other genres. There is a big drop off after Adventure. This provides very clear instructions to give to microsoft about profit. Lets see if this genres are also high in popularity.
 
 The next step after seeing the profit per genre, was to see which genres are the most popular. To do this we use another bar graph to show the average popularity of that genre. This would allow us to see if any genres are more popular than the others. Also allows us to see how animation, sci-Fi, and adventure stand in the popularity ratings.
 
-![Graph average popularity per genre](./images/Average_Popularity_Per_Genre.jpeg)
+![Graph average popularity per genre](./images/Average_Popularity_per_Genre.jpeg)
 
 Look at that, Sci-fi and adventure are the top 2, and animation is still in the top group before the drop off. This very much goes along with how our average profit graph looked. Those clearly are three great genres for microsoft to target.
 
@@ -57,7 +57,7 @@ Look at that, Sci-fi and adventure are the top 2, and animation is still in the 
 
 The final topic of data we looked at was to see if there was a best month or group of months to release a movie based on profit. To do this we graphed the the average profit movies make in each month.
 
-![Graph average profit per month](images/Average_Profit_Per_Month.jpeg)
+![Graph average profit per month](images/Average_Profit_per_Month.jpeg)
 
 After seeing this data, it is very clear the best time to release a movie is during the summer months. This makes it very easy to recommend Microsoft to release their movies in the summer months (May-July).
 
