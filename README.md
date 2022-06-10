@@ -57,7 +57,7 @@ Look at that, Sci-fi and adventure are the top 2, and animation is still in the 
 
 The final topic of data we looked at was to see if there was a best month or group of months to release a movie based on profit. To do this we graphed the the average profit movies make in each month.
 
-![Graph average profit per month](./images/Average_Profit_Per_Month.jpeg)
+![Graph average profit per month](images/Average_Profit_Per_Month.jpeg)
 
 After seeing this data, it is very clear the best time to release a movie is during the summer months. This makes it very easy to recommend Microsoft to release their movies in the summer months (May-July).
 
